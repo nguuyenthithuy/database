@@ -1,0 +1,64 @@
+{
+  "construction": [
+    {
+      "id": "1",
+      "year": 2024,
+      "title": "Thực trạng chất lượng update",
+      "summary": "I love you baby",
+      "keyword": "Ilove Fifa",
+      "author": "Nguyễn Thành Đạt",
+      "publishing": "Tạp chí",
+      "info": "Tôi sinh năm 2k3",
+      "path": "https://www.facebook.com/",
+      "note": "Cấm đụng vào"
+    },
+    {
+      "id": "2",
+      "year": 2023,
+      "title": "Phân tích kĩ thuật",
+      "summary": "I don't no",
+      "keyword": "Real love",
+      "author": "Nguyễn Thị Duyên",
+      "publishing": "Truyện tranh",
+      "info": "Tôi quê hà tĩnh",
+      "path": "https://www.facebook.com/",
+      "note": "Đụng vào chỗ nào cũng được"
+    },
+    {
+      "id": "70a3",
+      "year": "2021",
+      "title": "Tiêu đề 1",
+      "summary": "Tóm tắt 1",
+      "keyword": "Tóm tắt",
+      "author": "Tác giả 1",
+      "publishing": "Tạp chí 1",
+      "info": "Thông tin 1",
+      "path": "https://www.facebook.com/",
+      "note": "Ghi chú 1"
+    },
+    {
+      "id": "040f",
+      "year": "2014",
+      "title": "Tiêu đề 2",
+      "summary": "Tóm tắt 2",
+      "keyword": "Từ khóa 2",
+      "author": "Tác giả 2",
+      "publishing": "Tạp chí 2",
+      "info": "Thông tin 2",
+      "path": "oce",
+      "note": "1234"
+    },
+    {
+      "id": "a428",
+      "year": "2024",
+      "title": "Tiêu đề 5",
+      "summary": "Tóm tắt 5",
+      "keyword": "Từ khóa 5",
+      "author": "Tác giả 5",
+      "publishing": "Tạp chí 5",
+      "info": "Thông tin",
+      "path": "https://www.facebook.com/",
+      "note": "Ghi chú 5"
+    }
+  ]
+}
